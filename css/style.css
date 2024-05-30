@@ -36,6 +36,10 @@ img {
     display: block;
     width: 100%;
 }
+.icon {
+    background-image: url('images/icons.svg');
+}
+
 
 ul {
     list-style-type: none;
