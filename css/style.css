@@ -415,6 +415,12 @@ a.baglanti {
 .social-media-connection:focus {
     background-color: #31d0aa;
 }
+.third-social-media .social-media-connection:hover{
+    background-color: #404bbf;
+}
+.third-social-media .social-media-connection:focus {
+    background-color: #404bbf;
+}
 .footer-chapter-container{
     display: flex;
     align-items: baseline
