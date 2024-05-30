@@ -86,6 +86,9 @@ ul {
     color: #404bbf;
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
+}/*ekledim.*/
+.baglanti{
+    color: #404bbf;
 }
 .ana-baslik-nav .header-list .baglanti::after{
     content: "";
@@ -114,7 +117,7 @@ ul {
 .address-link .list:hover{
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.address-link .etiket:hover {
+.etiket{
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 /**/
