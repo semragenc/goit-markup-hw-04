@@ -75,6 +75,14 @@ ul {
 .ana-baslik {
     border-bottom: 1px solid #e7e9fc;
     height: 72px;
+    box-shadow:0px 2px 1px rgba(46, 47, 66, 0.08),
+    0px 1px 1px rgba(46, 47, 66, 0.16),
+    0px 1px 6px rgba(46, 47, 66, 0.08);
+
+}
+
+.ana-baslik-nav .header-list{
+    position: relative;
 }
 
 .ana-baslik-class {
@@ -114,6 +122,7 @@ ul {
 
 .address {
     font-style: normal;
+    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .address .address-link {
@@ -164,7 +173,7 @@ ul {
     border: none;
     border-radius: 4px;
     cursor: pointer;
-    transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    transition:background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .order-button:hover {
