@@ -399,6 +399,8 @@ ul.section-ul {
     display: flex;
     flex-wrap: wrap;
     gap: 24px;
+    /**/
+    width: 40px;
 }
 
 ul.section-ul.fourth {
@@ -481,4 +483,11 @@ a.baglanti {
 }
 .social-media-items{
     fill: #f4f4fd;
+}
+.footer-container {
+    width: 1158px;
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-right: 120px;
 }
