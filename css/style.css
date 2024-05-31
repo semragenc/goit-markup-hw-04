@@ -416,14 +416,14 @@ ul {
 }
 
 ul.section-ul {
-    display: flex;
-    flex-wrap: wrap;
     gap: 24px;
     /**/
     width: 40px;
 }
 
 ul.section-ul.fourth {
+    display: flex;
+    flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
 }
