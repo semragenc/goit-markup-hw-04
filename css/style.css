@@ -397,6 +397,10 @@ ul {
     margin-bottom: 16px;
 }
 
+.footer-container{
+    margin-right: 120px;
+}
+
 .studio {
     color: #F4F4FD;
     display: inline-block;
@@ -495,10 +499,6 @@ a.baglanti {
     display: flex;
     align-items: baseline;
     margin-right: 120px;
-}
-/**/
-.deneme-class{
-    margin-right: 120px
 }
 .social-media-items{
     fill: #f4f4fd;
