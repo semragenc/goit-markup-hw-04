@@ -496,6 +496,10 @@ a.baglanti {
     align-items: baseline;
     margin-right: 120px;
 }
+/**/
+.deneme-class{
+    margin-right: 120px
+}
 .social-media-items{
     fill: #f4f4fd;
 }
